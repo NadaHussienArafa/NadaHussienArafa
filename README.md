@@ -5,6 +5,6 @@
 - 📫 How to reach me https://www.linkedin.com/in/nada-arafa-3832b0152/
 
 <!---
-NadaHussienArafa/NadaHussienArafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nada Hussien Arafa/Nada Hussien Arafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
